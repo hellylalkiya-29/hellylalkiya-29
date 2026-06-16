@@ -4,7 +4,7 @@ I am a **B.Tech Computer Science Engineering** student at Unitedworld Institute 
 I am passionate about **Full-Stack Development**, UI/UX, and solving complex problems through code. <br>
 I am actively working towards becoming a **Software Development Engineer (SDE)**.
 
-#Personal Portfolio link : file:///C:/Users/helly/Downloads/helly_portfolio%20(1).html
+
 ---
 
 ### 🛠 Tech Stack
