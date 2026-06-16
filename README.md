@@ -4,7 +4,6 @@ I am a **B.Tech Computer Science Engineering** student at Unitedworld Institute 
 I am passionate about **Full-Stack Development**, UI/UX, and solving complex problems through code. <br>
 I am actively working towards becoming a **Software Development Engineer (SDE)**.
 
-
 ---
 
 ### 🛠 Tech Stack
@@ -16,10 +15,15 @@ I am actively working towards becoming a **Software Development Engineer (SDE)**
 ---
 
 ### 🚀 Projects
-* **[StackTrim](https://github.com/hellylalkiya-29/stacktrim):** AI-powered spend auditing and optimization platform.
+* **[StackTrim](https://github.com/hellylalkiya-29/stacktrim):** Automated AI spend auditing and optimization platform.
 * **[Heart Disease App](https://github.com/hellylalkiya-29/heart-diseases-app):** AI-driven diagnostic tool using Flutter & Firebase.
 * **[CodeHire-AI](https://github.com/hellylalkiya-29/CodeHire-AI):** AI-integrated recruitment and hiring platform.
 * **[Virasat](https://github.com/hellylalkiya-29/virasat-store):** Digital memory preservation application.
+
+---
+
+### 🌐 Portfolio
+Check out my live portfolio here: **[https://hellylalkiya-29.github.io/hellylalkiya-29/](https://hellylalkiya-29.github.io/hellylalkiya-29/)**
 
 ---
 
