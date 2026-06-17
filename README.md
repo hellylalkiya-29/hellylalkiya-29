@@ -19,6 +19,7 @@ I am actively working towards becoming a **Software Development Engineer (SDE)**
 * **[Heart Disease App](https://github.com/hellylalkiya-29/heart-diseases-app):** AI-driven diagnostic tool using Flutter & Firebase.
 * **[CodeHire-AI](https://github.com/hellylalkiya-29/CodeHire-AI):** AI-integrated recruitment and hiring platform.
 * **[Virasat](https://github.com/hellylalkiya-29/virasat-store):** Digital memory preservation application.
+*  **[Nexus-Dashboard](https://github.com/hellylalkiya-29/nexus-dashboard) : A modern, high-performance student dashboard featuring a Bento Grid layout, real-time data integration via Supabase, and smooth interactive animations.
 
 ---
 
