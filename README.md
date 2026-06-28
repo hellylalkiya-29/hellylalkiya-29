@@ -15,6 +15,7 @@ I am actively working towards becoming a **Software Development Engineer (SDE)**
 ---
 
 ### 🚀 Projects
+* **[Task-Tracker-Mern-App](https://task-tracker-omega-pearl.vercel.app/)
 * **[StackTrim](https://github.com/hellylalkiya-29/stacktrim):** Automated AI spend auditing and optimization platform.
 * **[Heart Disease App](https://github.com/hellylalkiya-29/heart-diseases-app):** AI-driven diagnostic tool using Flutter & Firebase.
 * **[CodeHire-AI](https://github.com/hellylalkiya-29/CodeHire-AI):** AI-integrated recruitment and hiring platform.
